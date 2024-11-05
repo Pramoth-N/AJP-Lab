@@ -39,8 +39,6 @@ Result for dataset 3: Sum = 21, Average = 10.50
  * just calculate the sum and average and print it     *
  *                                                     *   
  * * * * * * * * * * * * * * * * * * * * * * * * * * * *                                                    
- * 
- * 
  */
  import java.util.ArrayList;
  import java.util.List;

@@ -19,6 +19,14 @@ Constraints
  * 
  */
 
+ /*
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ *  NOTE :                                             *
+ *  If the out order mismatch, dont use threads .      *
+ * just calculate the sum and average and print it     *
+ *                                                     *   
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * *                                                    
+ */
  import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
